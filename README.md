@@ -8,7 +8,9 @@ Using VBA, Steve wants to include the entire dataset of stock market over the la
 Results:
 
 Stock Analysis Outputs Steve wanted to find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year.
+
 (Stock analysis outputs for 2017 and 2018 are in file "Resourses1" ("All_Stocks_Analysis_2017" and "All_Stocks_Analysis_2018"))
+
 By looking at the stocks for both years, it is clear that Stocks for year 2017 made a huge profit while 2018 stocks went in loss.
 
 Refactoring
